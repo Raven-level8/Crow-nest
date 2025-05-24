@@ -8,4 +8,4 @@ White is board. Black is Text.
         I MADE STOP.
        We not writer, 
        WE ARE BUILDER!
-<!--nice ttry. observer confirmed. -->
+<!--nice try. observer confirmed. -->
